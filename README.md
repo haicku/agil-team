@@ -1,4 +1,4 @@
-# buenas-practicas
+# agil-team
 
   Este repositorio pretende guiar para un desarrollo eficiente de software en equipos pequeños.
 
